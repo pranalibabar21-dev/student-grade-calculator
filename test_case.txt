@@ -1,0 +1,27 @@
+Test Case 1:
+Input: 95
+Output: Grade A
+
+Test Case 2:
+Input: 80
+Output: Grade B
+
+Test Case 3:
+Input: 65
+Output: Grade C
+
+Test Case 4:
+Input: 55
+Output: Grade D
+
+Test Case 5:
+Input: 30
+Output: Grade F
+
+Test Case 6:
+Input: -10
+Output: Invalid input
+
+Test Case 7:
+Input: 120
+Output: Invalid input
